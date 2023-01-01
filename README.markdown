@@ -47,7 +47,7 @@ $ git clone git@github.com:jperras/vim-dotfiles.git ~/.vim && ln -s ~/.vim/.vimr
    correctly. You'll need to install the following to your system:
 
    * [*fzf*](https://github.com/junegunn/fzf): For the best fuzzy file-finding you'll ever use.
-   * *ctags*: For the tagbar functionality.
+   * [*ctags*](https://github.com/universal-ctags/homebrew-universal-ctags): For the tagbar functionality.
    * [*ripgrep*](https://github.com/BurntSushi/ripgrep): For a better grep.
    * [*neovim-python*](https://github.com/neovim/python-client): The python client for neovim plugins.
    * [*flake8*](https://pypi.python.org/pypi/flake8): For Python syntax & PEP8 validation via Neomake.
